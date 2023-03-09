@@ -1,0 +1,2 @@
+# hamibot
+hamibot文件
